@@ -6,7 +6,9 @@ public class SocialCinema : ModuleRules
 {
 	public SocialCinema(TargetInfo Target)
 	{
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "Blu" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
+
+        PublicDependencyModuleNames.Add("Blu");
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
