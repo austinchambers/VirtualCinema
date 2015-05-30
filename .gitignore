@@ -1,10 +1,6 @@
-/Binaries
-/Build
 /DerivedDataCache
 /Intermediate
 /Saved
-/Plugins/BLUI/Intermediate
 *.opensdf
 *.sdf
-
 BluCache/
