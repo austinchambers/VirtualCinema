@@ -4,3 +4,6 @@
 *.opensdf
 *.sdf
 BluCache/
+/Build
+/Plugins
+/Binaries
